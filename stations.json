@@ -1,0 +1,15 @@
+{
+  "stations": [
+    {
+      "name": "1Live",
+      "url": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3"
+    },
+    {
+      "name":"N-JOY",
+      "url":"http://ndr-ndr1niedersachsen-osnabrueck.cast.addradio.de/ndr/ndr1niedersachsen/osnabrueck/mp3/128/stream.mp3"
+    },
+    {
+      "name": "NDR2",
+      "url": "http://www.ndr.de/resources/metadaten/audio/m3u/ndr2_hh.m3u"
+    }
+  ]}
